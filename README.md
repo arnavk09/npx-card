@@ -5,7 +5,7 @@ This my NPX card show you a little bit about me directly via console or terminal
 👇 just hit
 
 ```bash
-npx arnavk09
+npx arnavk09card
 ```
 #### Note:
 

@@ -20,7 +20,7 @@ const data = {
     chalk.gray("https://linkedin.com/in/") +
     chalk.blue("arnav-katgeri-6159361b4/"),
   web: chalk.cyan("arnavk09.github.io/personalsite/"),
-  npx: chalk.red("npx") + " " + chalk.white("arnavk09"),
+  npx: chalk.red("npx") + " " + chalk.white("arnavk09card"),
 
   labelWork: chalk.white.bold("       College:"),
   labelTwitter: chalk.white.bold("    Twitter:"),
