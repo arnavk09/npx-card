@@ -22,7 +22,7 @@ const data = {
   web: chalk.cyan("arnavk09.github.io/personalsite/"),
   npx: chalk.red("npx") + " " + chalk.white("arnavk09card"),
 
-  labelWork: chalk.white.bold("       College:"),
+  labelWork: chalk.white.bold("       "),
   labelTwitter: chalk.white.bold("    Twitter:"),
   labelGitHub: chalk.white.bold("     GitHub:"),
   labelLinkedIn: chalk.white.bold("   LinkedIn:"),
