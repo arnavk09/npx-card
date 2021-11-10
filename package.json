@@ -1,7 +1,7 @@
 {
-  "name": "cristianjdelrio",
+  "name": "arnavk09",
   "version": "1.0.0",
-  "description": "Just A Personal Card for Cristian Del Rio (CristianJDelRio)",
+  "description": "Personal Card for Arnav Katgeri (arnavk09)",
   "main": "card.js",
   "bin": "./card.js",
   "scripts": {
@@ -17,9 +17,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:CristianJDelRio/npx-card.git"
+    "url": "git+ssh://git@github.com:arnavk09/npx-card.git"
   },
-  "author": "CristianJDelRio",
+  "author": "arnavk09",
   "license": "MIT",
   "dependencies": {
     "boxen": "^5.1.2",
