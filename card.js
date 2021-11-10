@@ -13,7 +13,7 @@ const data = {
   handle: chalk.white("@arnavk09"),
   work: `${chalk.white("Web Developer and Computer Science Sophomore")} ${chalk
     .hex("#cca918")
-    .bold("College : Manipal University Jaipur")}`,
+    .bold("at Manipal University Jaipur")}`,
   github: chalk.gray("https://github.com/") + chalk.green("arnavk09"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("KatgeriArnav"),
   linkedin:
@@ -43,14 +43,14 @@ const me = boxen(
     ``,
     `${data.labelCard}  ${data.npx}`,
     ``,
-    `${chalk.bold("-  Hello There! I'm a Web Developer in the making and ")}`,
+    `${chalk.bold("-  Hello There! I'm a Web Developer in the making! ")}`,
     `${chalk.bold("I'm from India and I'm usually seen doing 3 things:")}`,
     ``,
     `${chalk.bold("1. Polishing my Data Structures skills 🧠")}`,
     `${chalk.bold(
       "2. Learning about new technologies and implementing all I can 💻"
     )}`,
-    `${chalk.bold("3. Pizza and a good book 👪")}`,
+    `${chalk.bold("3. Pizza and a good book :)")}`,
   ].join("\n"),
   {
     margin: 1,
