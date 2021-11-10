@@ -1,6 +1,6 @@
 {
   "name": "arnavk09card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal Card for Arnav Katgeri (arnavk09)",
   "main": "card.js",
   "bin": "./card.js",
