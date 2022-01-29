@@ -43,12 +43,12 @@ const me = boxen(
     ``,
     `${data.labelCard}  ${data.npx}`,
     ``,
-    `${chalk.bold("-  Hello There! I'm a Web Developer in the making! ")}`,
+    `${chalk.bold("-  Hello There! ")}`,
     `${chalk.bold("I'm from India and I'm usually seen doing 3 things:")}`,
     ``,
-    `${chalk.bold("1. Polishing my Data Structures skills 🧠")}`,
+    `${chalk.bold("1. Polishing my Data Structures skills ")}`,
     `${chalk.bold(
-      "2. Learning about new technologies and implementing all I can 💻"
+      "2. Learning about new technologies and implementing all I can "
     )}`,
     `${chalk.bold("3. Pizza and a good book :)")}`,
   ].join("\n"),
